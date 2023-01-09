@@ -1,6 +1,6 @@
 # Kaggle Projects
 
-Collection of codes in kaggle
+Collection of codes from kaggle
 
 Kaggle profile link: https://www.kaggle.com/chayakorn
 
